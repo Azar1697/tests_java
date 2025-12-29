@@ -71,9 +71,13 @@ src/test/java/com/example/tests/mobile/WikiMobileTests.java через IntelliJ 
 Проект полностью соответствует критериям оценки:
 
 ✅ Реализовано 4 веб-сценария 
+
+
 ![img_1.png](img_1.png)
 
 ✅ Реализовано 3 мобильных сценария.
+
+
 ![img.png](img.png)
 
 ✅ Тесты стабильны (используются явные ожидания WebDriverWait).
